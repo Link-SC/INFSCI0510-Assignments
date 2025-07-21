@@ -1,2 +1,2 @@
-# CS0449-Assignments
-Solutions to Scupi CS0449 assignments
+# INFSCI0510-Assignments
+Solutions to Scupi INFSCI0510 assignments
